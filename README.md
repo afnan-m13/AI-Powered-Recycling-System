@@ -67,3 +67,23 @@ Item Verification
 Approved Points
         ↓
 Reward Redemption
+```
+
+---
+
+## 🌍 Sustainability Impact
+
+Baddel contributes to sustainability by:
+
+- ♻️ Encouraging item **reuse instead of disposal**
+- 📦 Supporting **circular economy** principles
+- 🏷️ Enabling items to be **refurbished, resold, or recycled**
+- 🎁 Using **gamified rewards** to motivate sustainable behavior
+- 🌱 Reducing **environmental waste and pollution**
+
+  
+## 👥 Team
+
+Afrah bashaddadah - Aya mohammed - Afnan kamel 
+Built with ❤️ to make the world a little greener.
+
