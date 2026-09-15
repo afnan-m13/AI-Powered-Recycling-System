@@ -129,26 +129,32 @@ Size is automatically determined by the bounding box area ratio:
 ## 🖼️ Detection Results
 
 ### Sample 1 — General Scene Detection
-![Detection Result](screenshots/result_bus.jpg)
+<img width="810" height="1080" alt="result_bus" src="https://github.com/user-attachments/assets/25d711e5-5815-41bd-82c4-feaacc723a0e" />
+
 
 ### Sample 2 — Furniture Detection
-![Furniture Detection](screenshots/result_furniture.jpg)
+<img width="227" height="222" alt="result_furniture" src="https://github.com/user-attachments/assets/6b576025-e9ec-4c8c-990f-e56a5067b105" />
+
 
 ### Sample 3 — Item Detection
-![Item Detection](screenshots/result_bb.jpg)
+<img width="1000" height="1000" alt="result_bb" src="https://github.com/user-attachments/assets/e5508b33-6e12-441d-9bb6-512d872ae969" />
+
 
 ---
 
 ## 📊 Training Performance
 
 ### F1 Score Curve
-![F1 Curve](screenshots/train_f1.png)
+<img width="2250" height="1500" alt="train_f1" src="https://github.com/user-attachments/assets/6857bcaa-f519-4039-b3d0-99fca786a8b6" />
+
 
 ### Precision-Recall Curve
-![PR Curve](screenshots/train_pr.png)
+<img width="2250" height="1500" alt="train_pr" src="https://github.com/user-attachments/assets/16a3e8a6-bf8b-4397-be75-025673868dbb" />
+
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a5fae938-2a60-43b9-bfd8-6c222caa5d4f" />
+
 
 ---
 
