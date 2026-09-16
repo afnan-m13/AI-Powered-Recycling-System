@@ -305,7 +305,7 @@ View the full UI prototype on Figma:
 Afrah bashaddadah - Aya mohammed - Afnan kamel 
 
 
-Supervisor: Dr. Mohammad Nauman - Dr. Passent Elkafrawy
+Supervisors: Dr. Mohammad Nauman - Dr. Passent Elkafrawy
 
 
 Built with ❤️ to make the world a little greener.
